@@ -23,6 +23,10 @@ body {
 }
 
 /* Add styles here! */
+html {
+  font-size: 1.125rem;
+}
+
 :root {
   /* Color palette */
 
@@ -43,7 +47,6 @@ body {
 }
 
 body {
-  font-size: 18px;
   line-height: 1.5;
   color: var(--cl-black);
 
