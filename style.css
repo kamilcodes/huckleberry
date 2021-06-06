@@ -68,7 +68,7 @@ body {
 header {
   padding-top: 128px;
 
-  border-bottom: solid 5px var(--cl-gray-dark);
+  border-bottom: solid 8px var(--cl-gray-dark);
 }
 
 .intro-chunk {
@@ -102,13 +102,13 @@ main {
   padding-right: 64px;
   padding-top: 2px;
 
-  border-bottom: solid 5px var(--cl-gray-dark);
+  border-bottom: solid 8px var(--cl-gray-dark);
 }
 
 .indented-heading {
   font-size: 1.5rem;
   background-color: var(--cl-gold-lighter);
-  border-bottom: solid 5px var(--cl-gold-darker);
+  border-bottom: solid 8px var(--cl-gold-darker);
   max-width: max-content;
 
   padding-top: 16px;
